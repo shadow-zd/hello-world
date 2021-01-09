@@ -1,4 +1,2 @@
-# hello-world
-hello world
-welcome to GitHub
-添加注释
+# 编译原理
+一个小c语言编译器
